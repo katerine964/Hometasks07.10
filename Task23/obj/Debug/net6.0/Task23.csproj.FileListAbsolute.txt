@@ -1,0 +1,15 @@
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/bin/Debug/net6.0/Task23
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/bin/Debug/net6.0/Task23.deps.json
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/bin/Debug/net6.0/Task23.dll
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/bin/Debug/net6.0/ref/Task23.dll
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/bin/Debug/net6.0/Task23.pdb
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/obj/Debug/net6.0/Task23.dll
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/obj/Debug/net6.0/ref/Task23.dll
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/obj/Debug/net6.0/Task23.pdb
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
