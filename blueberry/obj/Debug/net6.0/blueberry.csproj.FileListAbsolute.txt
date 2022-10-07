@@ -1,0 +1,15 @@
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/obj/Debug/net6.0/blueberry.csproj.AssemblyReference.cache
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/obj/Debug/net6.0/blueberry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/obj/Debug/net6.0/blueberry.AssemblyInfoInputs.cache
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/obj/Debug/net6.0/blueberry.AssemblyInfo.cs
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/obj/Debug/net6.0/blueberry.csproj.CoreCompileInputs.cache
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/bin/Debug/net6.0/blueberry
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/bin/Debug/net6.0/blueberry.deps.json
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/bin/Debug/net6.0/blueberry.runtimeconfig.json
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/bin/Debug/net6.0/blueberry.dll
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/bin/Debug/net6.0/ref/blueberry.dll
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/bin/Debug/net6.0/blueberry.pdb
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/obj/Debug/net6.0/blueberry.dll
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/obj/Debug/net6.0/ref/blueberry.dll
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/obj/Debug/net6.0/blueberry.pdb
+/Users/ekaterinaromanova/Desktop/HomeTask7.10/blueberry/obj/Debug/net6.0/blueberry.genruntimeconfig.cache
